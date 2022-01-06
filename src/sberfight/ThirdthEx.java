@@ -1,4 +1,4 @@
-package test.sberfight;
+package sberfight;
 
 import java.util.*;
 import java.util.stream.Collectors;
